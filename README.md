@@ -1,5 +1,5 @@
 # ZOHO CRM
-Test project
+Test project. Create a deal and assign a task to it 
 <pre>
 Use Open Server 5.2.2:
     WebServer: Apache-PHP-7.2
@@ -8,7 +8,7 @@ Use Open Server 5.2.2:
 
 1) Download project from github
 2) Run in terminal: composer update
-3) Create database: crmoz
+3) Create database: zohocrm
 4) Run:
       php artisan migrate
       php artisan db:seed
