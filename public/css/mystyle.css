@@ -1,0 +1,13 @@
+.list {
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+    -webkit-mask-image: url(si-glyph-book-open.svg);
+    mask-image: url(si-glyph-book-open.svg);
+}
+.add {
+    width: 30px;
+    height: 30px;
+    -webkit-mask-image: url(si-glyph-circle-plus.svg);
+    mask-image: url(si-glyph-circle-plus.svg);
+}
