@@ -1,10 +1,11 @@
 # ZOHO CRM
 Test project. Create a deal and assign a task to it 
 <pre>
-Use Open Server 5.2.2:
-    WebServer: Apache-PHP-7.2
-    Interpreter: PHP 7.2
-    Database: MySQL 5.7
+Use: Open Server 5.2.2:
+     WebServer: Apache-PHP-7.2
+     Interpreter: PHP 7.2
+     Database: MySQL 5.7
+     Framework: Laravel 5.7
 
 1) Download project from github
 2) Run in terminal: composer update
